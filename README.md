@@ -11,6 +11,7 @@
 | [2235-add-two-integers](https://github.com/gargpooja817-cpu/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/gargpooja817-cpu/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/gargpooja817-cpu/leetcode/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/gargpooja817-cpu/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Number Theory
 |  |
 | ------- |
