@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gargpooja817-cpu/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/gargpooja817-cpu/leetcode/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/gargpooja817-cpu/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gargpooja817-cpu/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gargpooja817-cpu/leetcode/tree/master/0342-power-of-four) |
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gargpooja817-cpu/leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/gargpooja817-cpu/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/gargpooja817-cpu/leetcode/tree/master/0412-fizz-buzz) |
@@ -44,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gargpooja817-cpu/leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/gargpooja817-cpu/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
