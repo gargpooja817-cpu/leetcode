@@ -34,6 +34,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gargpooja817-cpu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/gargpooja817-cpu/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/gargpooja817-cpu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/gargpooja817-cpu/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gargpooja817-cpu/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/gargpooja817-cpu/leetcode/tree/master/0242-valid-anagram) |
@@ -62,10 +63,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/gargpooja817-cpu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/gargpooja817-cpu/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/gargpooja817-cpu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/gargpooja817-cpu/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gargpooja817-cpu/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gargpooja817-cpu/leetcode/tree/master/0342-power-of-four) |
