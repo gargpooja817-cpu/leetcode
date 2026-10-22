@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gargpooja817-cpu/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gargpooja817-cpu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gargpooja817-cpu/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gargpooja817-cpu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
