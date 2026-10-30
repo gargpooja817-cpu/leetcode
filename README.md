@@ -90,6 +90,7 @@
 | [0011-container-with-most-water](https://github.com/gargpooja817-cpu/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargpooja817-cpu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gargpooja817-cpu/leetcode/tree/master/0027-remove-element) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -98,4 +99,20 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gargpooja817-cpu/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
