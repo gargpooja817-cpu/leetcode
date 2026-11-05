@@ -55,6 +55,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargpooja817-cpu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gargpooja817-cpu/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gargpooja817-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/gargpooja817-cpu/leetcode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gargpooja817-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gargpooja817-cpu/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gargpooja817-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gargpooja817-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
