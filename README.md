@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/gargpooja817-cpu/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/gargpooja817-cpu/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gargpooja817-cpu/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/gargpooja817-cpu/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/gargpooja817-cpu/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gargpooja817-cpu/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gargpooja817-cpu/leetcode/tree/master/0342-power-of-four) |
@@ -96,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/gargpooja817-cpu/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargpooja817-cpu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gargpooja817-cpu/leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/gargpooja817-cpu/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gargpooja817-cpu/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
