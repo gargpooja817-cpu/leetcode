@@ -102,6 +102,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gargpooja817-cpu/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gargpooja817-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/gargpooja817-cpu/leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Greedy
 |  |
 | ------- |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/gargpooja817-cpu/leetcode/tree/master/0093-restore-ip-addresses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/gargpooja817-cpu/leetcode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
