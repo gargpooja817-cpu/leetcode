@@ -68,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/gargpooja817-cpu/leetcode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gargpooja817-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -99,6 +100,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargpooja817-cpu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gargpooja817-cpu/leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/gargpooja817-cpu/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/gargpooja817-cpu/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargpooja817-cpu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gargpooja817-cpu/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gargpooja817-cpu/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gargpooja817-cpu/leetcode/tree/master/0047-permutations-ii) |
 | [0093-restore-ip-addresses](https://github.com/gargpooja817-cpu/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Heap (Priority Queue)
 |  |
