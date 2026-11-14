@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gargpooja817-cpu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gargpooja817-cpu/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gargpooja817-cpu/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/gargpooja817-cpu/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gargpooja817-cpu/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gargpooja817-cpu/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gargpooja817-cpu/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/gargpooja817-cpu/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
