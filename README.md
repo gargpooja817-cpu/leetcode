@@ -45,11 +45,13 @@
 | [0242-valid-anagram](https://github.com/gargpooja817-cpu/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/gargpooja817-cpu/leetcode/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gargpooja817-cpu/leetcode/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gargpooja817-cpu/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
