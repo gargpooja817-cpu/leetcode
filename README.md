@@ -46,6 +46,7 @@
 | [0344-reverse-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/gargpooja817-cpu/leetcode/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gargpooja817-cpu/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0027-remove-element](https://github.com/gargpooja817-cpu/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/gargpooja817-cpu/leetcode/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gargpooja817-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gargpooja817-cpu/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/gargpooja817-cpu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/gargpooja817-cpu/leetcode/tree/master/0509-fibonacci-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gargpooja817-cpu/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
